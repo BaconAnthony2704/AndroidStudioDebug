@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guia1_HM13054</string>
+    <string name="n1">Numero 1</string>
+    <string name="n2">Numero 2</string>
+    <string name="n3">Numero 3</string>
+    <string name="resultado">Resultado</string>
+    <string name="btnSuma">Sumar</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="btnResta">Restar</string>
+</resources>
